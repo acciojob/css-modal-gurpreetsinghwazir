@@ -1,1 +1,23 @@
-/*  your css code here. If applicable */
+.modal{
+	border: 2px solid red;
+	margin: 30px
+}
+.modal-header{
+	background: #4eab4d;
+}
+h2, p {
+	padding:10px;
+}
+.close-modal{
+	position: relative;
+	left: 450px;
+	padding: 10px;
+	
+	
+	  
+}
+
+
+
+
+
