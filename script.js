@@ -1,4 +1,3 @@
-<script>
 // Get the modal
 var modal = document.getElementById('one');
 
@@ -8,4 +7,3 @@ window.onclick = function(event) {
     modal.style.display = "none";
   }
 }
-</script>
