@@ -1,19 +1,19 @@
 .modal{
+	display: none;
 	border: 2px solid red;
 	margin: 30px
 }
-.modal-header{
+.modal-header, .modal-body {
 	background: #4eab4d;
+	margin:10px;
 }
 h2, p {
-	padding:10px;
+margin:10px;
 }
 .close-modal{
 	position: relative;
 	left: 450px;
 	padding: 10px;
-	
-	
 	  
 }
 
